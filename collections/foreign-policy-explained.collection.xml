@@ -1,84 +1,25 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col24325</md:content-id>
-  <md:title>Foreign Policy Explained</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>9c2a4434-73e3-4b3a-a00b-53669403edd4</md:uuid>
-<md:slug>foreign-policy-explained</md:slug>
-</metadata>
-
+    <md:content-id>col24325</md:content-id>
+    <md:title>Foreign Policy Explained</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9c2a4434-73e3-4b3a-a00b-53669403edd4</md:uuid>
+    <md:slug>foreign-policy-explained</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m66186"/>
-        
-      
-    
-    
-      <col:module document="m66188"/>
-        
-      
-    
-    
-      <col:module document="m66194"/>
-        
-      
-    
-    
-      <col:module document="m66191"/>
-        
-      
-    
-    
-      <col:module document="m66195"/>
-        
-      
-    
-    
-      <col:module document="m66193"/>
-        
-      
-    
-    
-      <col:module document="m66184"/>
-        
-      
-    
-    
-      <col:module document="m66187"/>
-        
-      
-    
-    
-      <col:module document="m66185"/>
-        
-      
-    
-    
-      <col:module document="m66190"/>
-        
-      
-    
-    
-      <col:module document="m66183"/>
-        
-      
-    
-    
-      <col:module document="m66192"/>
-        
-      
-    
+    <col:module document="m66186"/>
+    <col:module document="m66188"/>
+    <col:module document="m66194"/>
+    <col:module document="m66191"/>
+    <col:module document="m66195"/>
+    <col:module document="m66193"/>
+    <col:module document="m66184"/>
+    <col:module document="m66187"/>
+    <col:module document="m66185"/>
+    <col:module document="m66190"/>
+    <col:module document="m66183"/>
+    <col:module document="m66192"/>
   </col:content>
 </col:collection>
